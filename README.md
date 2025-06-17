@@ -2,6 +2,8 @@
 
 A beautiful and functional Edge extension that displays Islamic prayer times (Athan) based on your location.
 
+## 🚀 Demo https://microsoftedge.microsoft.com/addons/detail/%D8%A3%D9%88%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A2%D8%B0%D8%A7%D9%86/cahjfhiicokbkkenmabdbcnoepkdolch
+
 ## ✨ Features
 
 - **Real-time Prayer Times**: Get accurate prayer times for Fajr, Sunrise, Dhuhr, Asr, Maghrib, and Isha
