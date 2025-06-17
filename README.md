@@ -2,7 +2,7 @@
 
 A beautiful and functional Edge extension that displays Islamic prayer times (Athan) based on your location.
 
-## 🚀 Demo [https://microsoftedge.microsoft.com/addons/detail/%D8%A3%D9%88%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A2%D8%B0%D8%A7%D9%86/cahjfhiicokbkkenmabdbcnoepkdolch](https://tinyurl.com/y67evx3x)
+## 🚀 Demo https://tinyurl.com/y67evx3x
 
 ## ✨ Features
 
